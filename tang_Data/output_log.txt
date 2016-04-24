@@ -1,0 +1,86 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     1761 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nic\UnityProjects\MoonTang\tang_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 9.144644 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2bfc -> priority: 1 
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 436)
+
+trigger entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+trigger exited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+trigger entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+trigger exited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+trigger entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+trigger exited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
